@@ -1,0 +1,7 @@
+.titulo{background-color: pink; font-size: 60px; text-align: center;}
+.li{background-color: black; color: blue;}
+.ul{font-size: 35px; text-align: center; list-style-type: none;}
+.titulo2{font-size: 60px; background-color: gray; text-align: center;}
+.imagen1{width: 30%;}
+.div1{display: flex; justify-content: center;}
+.integrantes{list-style-type: '👩‍🚀'; font-size: 25px;}
