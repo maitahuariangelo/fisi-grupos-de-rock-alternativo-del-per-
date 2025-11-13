@@ -1,2 +1,2 @@
-# fisi-grupos-de-rock-alternativo-del-peru-
+# fisi-grupos-de-rock-alternativo-del-per-
 rock alternativo perú
